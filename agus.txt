@@ -1,0 +1,9 @@
+Pasos para usar nodemon
+
+1. Ejecutar en el CMD el sgte comando: "npm i -g nodemon".
+2. ejecutar comando "npm run dev" y listo.
+
+
+////
+    Borrar archivo agus.txt una vez realizado los pasos
+////
