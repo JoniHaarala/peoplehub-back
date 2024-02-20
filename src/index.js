@@ -4,8 +4,10 @@ import { dbConn } from './db/conn.js'
 import { PORT } from './config.js'
 
 
-dbConn();
+// dbConn();
 
 app.listen(PORT, () => {
   console.log(`Listening on port ${PORT}`)
 })
+
+console.clear();
